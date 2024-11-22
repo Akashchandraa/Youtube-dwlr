@@ -2,7 +2,6 @@
 Youtube video downloader, This is a desktop application wrote in python...
 
 
-
 install the requirements 
 run the application (python main.py)
 copy the targeted youtube URL 
